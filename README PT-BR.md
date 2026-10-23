@@ -1,6 +1,6 @@
 # Reqable
 
-[Inglês](README.md) | [Chinês](README_CN.md) | [繁體中文](README_ZH-HANT.md) | [日本語](README_JA.md) | [Coréia do Sul](README_KO.md) | [Espanhol](README_ES.md) | [Francês](README_FR.md) | [Alemão](README_DE.md) | [Russo](README_RU.md) | [Português-Brasil][(README PT-BR.md)] |
+[Inglês](README.md) | [Chinês](README_CN.md) | [繁體中文](README_ZH-HANT.md) | [日本語](README_JA.md) | [Coréia do Sul](README_KO.md) | [Espanhol](README_ES.md) | [Francês](README_FR.md) | [Alemão](README_DE.md) | [Russo](README_RU.md) | [Português-Brasil](README PT-BR.md) |
 
 ⚠️ **Observação: Reqable não é um projeto de código aberto. Este repositório é usado exclusivamente para rastreamento de problemas, solicitações de recursos e feedback do usuário.**
 
