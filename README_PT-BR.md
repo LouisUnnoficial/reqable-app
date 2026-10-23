@@ -56,6 +56,7 @@ O Reqable foi desenvolvido com Flutter e C++, evitando deliberadamente um ambien
 - Tamanho da instalação inferior a 100 MB.
 - Consumo típico de memória inferior a 300 MB durante uso ativo.
 Testes de desempenho de captura de pacotes
+-
 
 ![](arts/benchmark_en_02.png)
 
