@@ -30,8 +30,7 @@ Visite nosso site oficial: https://reqable.com
 
 # Depuração de API
 
-A Reqable emprega uma estratégia clássica de MITM (Homem no Meio) para interceptar o tráfego HTTP(S). Em plataformas desktop, ela captura o tráfego por meio da configuração de proxy em nível de sistema; em dispositivos móveis, ela utiliza um proxy local.
-O tráfego capturado pode ser inspecionado e manipulado por meio de um conjunto abrangente de ferramentas de depuração: reprodução de solicitações, edição em linha, pontos de interrupção, reescrita de URLs, scripts personalizados e muito mais.
+A Reqable emprega uma estratégia clássica de MITM (Homem no Meio) para interceptar o tráfego HTTP(S). Em plataformas desktop, ela captura o tráfego por meio da configuração de proxy em nível de sistema; em dispositivos móveis, ela utiliza um proxy local. O tráfego capturado pode ser inspecionado e manipulado por meio de um conjunto abrangente de ferramentas de depuração: reprodução de solicitações, edição em linha, pontos de interrupção, reescrita de URLs, scripts personalizados e muito mais.
 
 ![](arts/screenshot_en_01.png)
 
