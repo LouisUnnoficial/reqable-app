@@ -58,7 +58,6 @@ O Reqable foi desenvolvido com Flutter e C++, evitando deliberadamente um ambien
 
 Testes de desempenho de captura de pacotes
 
-
 ![](arts/benchmark_en_02.png)
 
 Benchmarks de desempenho do cliente API
